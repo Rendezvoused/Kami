@@ -1,0 +1,48 @@
+body {
+	/*padding:0px;
+	margin: 0px 0px 0px 0px;*/
+	FONT-SIZE: 12pt;
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+}
+div#xatstyme {
+	background:#0;
+	color: #00; 
+	overflow: auto;
+}
+body {background-color: #000000;}*{transition:all 1s ease;cursor:url(https://i.postimg.cc/C1wtkYhP/kuwo.png),auto;color:rgba(255,255,255,0.8);text-decoration:none;font-family:calibri;font-size:8pt;-webkit-user-select:none;}body{opacity: 0.4;}body:hover{opacity: 0.9;} /*by BraveryMind*/ [name=eba]{width: 190px;height: 240px;margin-top:150px;margin-left: 540px;border:#2A2A2A 1px solid;position: absolute;} [name=nick]{width:90px;height: 100px;margin-top:-10px;margin-left: 50px;text-align: center;background-color: #000000;font-family: calibri;font-size:15px;color: #4D4D4D;letter-spacing: 5px;} 
+[name=jhin]{width: 150px;height:auto;padding: 1px;margin-top: -60px;margin-left: 20px;background-color: transparent;}
+[name=jhin],img {width: 150px;height:auto;}
+[name=frase]{width: 200px;height: auto;margin-top: 10px;margin-left: auto;background-color: transparent;font-family: calibri;font-size: 11px;color: #4D4D4D;text-transform: uppercase;letter-spacing: 1px;} [name=line]{font-family: calibri;font-size: 9px;letter-spacing: 5px;color: #6A0709;margin-top: -25px;margin-left: 25px;position: fixed;} [name=line2]{font-family: calibri;font-size: 9px;letter-spacing: 5px;color: #6A0709;margin-top: 15px;margin-left: 24px;position: fixed;} #nowaymenu{position:absolute}#nowaymenu{bottom:0;}
+div#noowayfixed {
+	z-index: 2147483647;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
+div#noowaymenu
+{
+	background-color:#009;
+	background: linear-gradient(#000014, #000024, #00004e);
+    border-radius: 0px 5px 0px 0px;
+	display: none;
+	FONT-SIZE: 12pt;
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+}
+div#noowayitems
+{
+	padding-top: 5px;
+    padding-right: 0px;
+    /*padding-bottom: 5px;*/
+    padding-left: 0px;
+    margin-left: 6px;
+    line-height: 130%;
+	color:#fff;
+}
+div#noowayitems > a
+{
+	color:#fff;
+    text-decoration: none;
+}
+div#noowayitems > a:hover {
+    text-decoration: underline;
+}
